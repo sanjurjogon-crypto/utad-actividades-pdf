@@ -1,0 +1,11 @@
+{
+  "name": "utad-actividades-pdf",
+  "displayName": "UTAD Actividades PDF",
+  "description": "Produce UTAD class activities for Sistemas Operativos and Fundamentos de Hardware as formatted A4 PDFs with real VirtualBox VM screenshots on Windows and Gonzalo Sanjurjo's cover template.",
+  "version": "2.0.0",
+  "suggestedPrompts": [
+    "Haz esta actividad complementaria de Sistemas Operativos en PDF",
+    "Genera el PDF de Fundamentos de Hardware con capturas de la VM en VirtualBox",
+    "Revisa y formatea este PDF de actividad de UTAD"
+  ]
+}
